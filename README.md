@@ -22,5 +22,5 @@ Se ha implementando como menciona la guía la funcion void llamada Suma donde ca
 
 La interfaz de la aplicación se visualiza de la siguiente manera: 
 
-![App Screenshot](https://raw.githubusercontent.com/CarlosMaldonado1998/android-suma/master/Images/image.png)
+![App Screenshot](https://raw.githubusercontent.com/CarlosMaldonado1998/android-suma/master/Images/imagen.png)
 
